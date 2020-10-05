@@ -8,3 +8,7 @@ Check for open issues and open a PR to fix those, or just open issues with sugge
 
 ## LICENSE
 MIT
+
+## Build instructions
+**Installing required dependencies** - npm install
+**Starting the application locally** - npm start
